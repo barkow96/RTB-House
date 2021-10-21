@@ -17,8 +17,6 @@ Dodaj animacje "skaczącej ramki" - co dwie sekundy border oferty ma przeskakiwa
 Obrazki i cena + waluta powinny być zaczytywane z pliku JSON: http://rekrutacjartb.pl/developer/banner.json
 Logo: http://rekrutacjartb.pl/developer/images/logo_rtb.png
 
-As an input you will get a sum of digits (`number`).
-
 ## Treść Zad. 2
 Stwórz banner w formacie 160x600. Wylosuj z pliku JSON trzy oferty. Układ bannera ma być taki jak na załączonym przykładzie (banner.jpg). 
 
