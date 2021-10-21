@@ -1,6 +1,6 @@
 # URUCHAMIANIE APLIKACJI
 
-W celu otworzenia wykonanych zadań w lokalnym środowisku przeglądarki należy pobrać zamieszczony pakiet z zadaniami.
+W celu otworzenia wykonanych zadań w lokalnym środowisku przeglądarki należy pobrać zamieszczony w niniejszym repozytorium pakiet z zadaniami.
 Na komputerze powinien być zainstalowany Node Package Manager, z pomocą którego uruchomimy aplikacje na localhost'cie:
 1) przy pomocy terminala przechodzimy do folderu z danym zadaniem (przykładowa ścieżka: C:\Users\User\Desktop\RTB-House-main\zad.1),
 2) instalujemy pakiet "parcel-bundler" przy pomocy komendy:
